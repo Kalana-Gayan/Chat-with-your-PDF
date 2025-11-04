@@ -61,13 +61,13 @@ This project requires an OpenAI API key. You must set it as an environment varia
 On macOS/Linux:
 ```Bash
 
-export OPENAI_API_KEY="sk-..."
+export GOOGLE_APPLICATION_CREDENTIALS="/path/to/your/confidential.json\"
 export COHERE_API_KEY="paste_your_key_here"
 ```
 On Windows:
 ```Bash
 
-set OPENAI_API_KEY="paste_your_key_here"
+set GOOGLE_APPLICATION_CREDENTIALS="/path/to/your/confidential.json\"
 set COHERE_API_KEY="paste_your_key_here"
 ```
 ### 4. Run the API Server
