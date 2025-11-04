@@ -42,7 +42,7 @@ This project is a simple, two-step API built with **FastAPI**:
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/pdf_chat_api.git](https://github.com/your-username/pdf_chat_api.git)
+git clone [https://github.com/Kalana-Gayan/pdf_chat_api.git](https://github.com/Kalana-Gayan/pdf_chat_api.git)
 cd pdf_chat_api
 ```
 
@@ -54,7 +54,7 @@ Make sure you have Python 3.10+ installed. Then, install the required libraries 
 pip install -r requirements.txt
 ```
 
-### 3. Set Your OpenAI API Key
+### 3. Set Your OpenAI and Cohere API Key
 
 This project requires an OpenAI API key. You must set it as an environment variable in your terminal.
 
@@ -62,11 +62,13 @@ On macOS/Linux:
 ```Bash
 
 export OPENAI_API_KEY="sk-..."
+export COHERE_API_KEY="paste_your_key_here"
 ```
 On Windows:
 ```Bash
 
-set OPENAI_API_KEY="sk-..."
+set OPENAI_API_KEY="paste_your_key_here"
+set COHERE_API_KEY="paste_your_key_here"
 ```
 ### 4. Run the API Server
 
