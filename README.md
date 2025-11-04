@@ -42,7 +42,7 @@ This project is a simple, two-step API built with **FastAPI**:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Kalana-Gayan/pdf_chat_api.git
+git clone https://github.com/Kalana-Gayan/Chat-with-your-PDF.git
 cd pdf_chat_api
 ```
 
