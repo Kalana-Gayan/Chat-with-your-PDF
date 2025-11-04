@@ -1,4 +1,4 @@
-# Chat with your PDF API (RAG Portfolio Project)
+# Chat with your PDF
 
 This project is a high-end portfolio piece demonstrating a complete, API-driven **Retrieval-Augmented Generation (RAG)** pipeline.
 
